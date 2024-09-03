@@ -30,7 +30,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "@actions/artifact": "^0.4.0",
+    "@actions/artifact": "^2.1.7",
     "@actions/core": "^1.2.6",
     "@actions/github": "^4.0.0",
     "axios": "^0.20.0"
